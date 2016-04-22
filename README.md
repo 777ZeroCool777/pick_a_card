@@ -2,4 +2,4 @@
 
 `ruby pick_a_card.rb`
 
-T of Clubs
+Q♥
